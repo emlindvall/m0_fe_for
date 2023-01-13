@@ -1,6 +1,10 @@
 # Self Evaluation
 
-- How confident do you feel in your understanding and fluency with the `for` statement?
-- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle?
-- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
-- What questions do you still have? How will you get the answers you need?
+1. How confident do you feel in your understanding and fluency with the `for` statement? 
+* I feel good! I think I have a relatively good undestanding of how this works, but I also know that I'm not as likely to understand more complicated use cases-- I'm excited to see and tackle those moving forward. 
+2. This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle?
+* I find it a lot more difficult to teach myself something than to have someone introduce it (I'm sure that's obvious), so this was more difficult than other CFU assignments, for sure. In this case I found myself thinking about things incorrectly over and over again and that's when I know I'd tipped over into unproductive struggle. At that point I needed to get up, walk away from my screen, and come back with a slightly fresher viewpoint. 
+3. What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
+* I'm not completely confident that I'll be able to apply these types of loops completely independently, but that will come with practice I'm sure. I'm already planning to try and run through things again during my down time next week to help solidify all of this in my brain before the start of Mod 1.
+4. What questions do you still have? How will you get the answers you need?
+* I always feel that my questions come on a case-by-case basis for coding. I'll understand one situation but sometimes not the next, so it's hard to know what I don't know. I'm just certain that what I don't know is a lot, and that I'll be doing plenty of connecting with mentors and teammates to get my questions answered over the coming months. 
